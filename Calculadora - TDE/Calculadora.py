@@ -67,6 +67,7 @@ def create_statistics(list, r ):
     for x, y in answer.items():
         if cont == 0:
             print(f'{x:<21}', ' ' * 10, f'{y:>10}')
+            cont = 1
         else:
             '''
             Na linha abaixo é possível alterar o número de casas decimais exibidas:
