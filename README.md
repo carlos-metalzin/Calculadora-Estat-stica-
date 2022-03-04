@@ -17,12 +17,6 @@ Este é um programa desenvolvido como Iniciação didática no Centro Universit�
 O projeto é recomendado para iniciantes na programação ou para aqueles que desejam o primeiro contato, pois provoca o usúario a ler o código e realizar alterações buscando os resultados desejados dentro da análise experimental.  
 Em seu funcionamento, o programa recebe dados, de maneira manual ou pela leitura de arquivo de dados, e retorna com um resumo estatístico. 
 
-## Próximas atualizações
-
-1. Adaptação ao Jupyter Notebookt com implementação de visualizações gráficas
-2. Nova documentação em Markdown para facilitar a leitura
-3. Suporte em inglês 
-4. Novas respostas estatísticas 
 
 ## Contato
 
